@@ -1,17 +1,14 @@
-# React Tutorial
+# Authorization
 
-Learn the fundamentals of React including simple and class components, state, props, and submitting form data.
-
-### [View the demo](https://taniarascia.github.io/react-tutorial/) | [Read the tutorial](https://www.taniarascia.com/getting-started-with-react/)
+Authorization form on loading the main page. User should register to reach the main form.
 
 ## Purpose
 
-- Learn about essential React concepts and related terms, such as Babel, Webpack, JSX, components, props, state, and lifecycle.
-- Build a very simple React app that demonstrates the above concepts.
+- Create the AuthForm to pass the VGTU lab.
 
 ## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
+- Authorization form and neccessary changes [Artsiom Fiadotau]
+- Main code [Tania Rascia](https://www.taniarascia.com)
 
 ## License
 
